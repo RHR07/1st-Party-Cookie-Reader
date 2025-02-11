@@ -1,0 +1,5 @@
+homepage: "https://github.com/RHR07/1st-Party-Cookie-Reader"
+documentation: "https://github.com/RHR07/1st-Party-Cookie-Reader/blob/main/README.md"
+versions:
+  - sha: "9a14d0e"
+    changeNotes: "Initial release"
